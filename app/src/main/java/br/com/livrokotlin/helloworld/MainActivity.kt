@@ -3,7 +3,7 @@ package br.com.livrokotlin.helloworld
 import android.os.Bundle
 
 
-class MainActivity : AppCompatActivity() {
+class MainActivity : AppCompatActivity() { 
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
